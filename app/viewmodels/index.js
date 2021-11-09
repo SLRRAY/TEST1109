@@ -97,7 +97,7 @@ define(function (require) {
                   "class": "table-cell",
                   style: "line-height: 40px; padding-left: 45px"
                 },
-                template: "<div style='width: 30px; height: 30px; background-image: url(../image/2875384.png); background-size: cover; cursor: pointer' onclick='window.open(`#: youtubeUrl #`)'></div>"
+                template: "<div style='width: 30px; height: 30px; background-image: url(../TEST1109/image/2875384.png); background-size: cover; cursor: pointer' onclick='window.open(`#: youtubeUrl #`)'></div>"
             },
             {
                 field: "col_06",
@@ -111,7 +111,7 @@ define(function (require) {
                   "class": "table-cell",
                   style: "line-height: 40px; padding-left: 45px"
                 },
-                template: "<div style='width: 30px; height: 30px; background-image: url(../image/338113.png); background-size: cover; cursor: pointer' onclick='$(`.iframe`).attr(`src`,`#: youtubeEmbedUrl #`); $(`.modal-vedio-player`).css(`display`,`flex`); $(`.modal-vedio-player`).modal(`show`);'></div>"
+                template: "<div style='width: 30px; height: 30px; background-image: url(../TEST1109/image/338113.png); background-size: cover; cursor: pointer' onclick='$(`.iframe`).attr(`src`,`#: youtubeEmbedUrl #`); $(`.modal-vedio-player`).css(`display`,`flex`); $(`.modal-vedio-player`).modal(`show`);'></div>"
             }]
         });
     };
